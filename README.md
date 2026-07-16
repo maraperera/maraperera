@@ -4,7 +4,7 @@
 * 🤝 **Open to Collaboration:** 
   * Open-source AI / LLM initiatives (fine-tuning, advanced RAG architectures, and MLOps automation).
   * Scalable full-stack systems and automated cloud pipelines (Python, Java, AWS, Azure).
-* 🌱 **Continuous Learning:** State-of-the-art LLM fine-tuning techniques (PEFT/LoRA), vector index optimization, and autonomous agent frameworks.
+* 🌱 **Continuous Learning:** State of the art LLM fine-tuning techniques (PEFT/LoRA), vector index optimization, and autonomous agent frameworks.
 * 💬 **Core Expertise & Topics:** 
   * **AI & LLMs:** RAG pipelines, fine-tuning, PyTorch, LangChain, vector search.
   * **Software Engineering:** Distributed backends, system architecture, API design.
