@@ -1,16 +1,15 @@
-# 💫 About Me
+# About Me
 
-* 🔭 **I’m currently working on:** Building production-grade, scalable Retrieval-Augmented Generation (RAG) pipelines using LangChain and vector databases.
-* 👯 **I’m looking to collaborate on:** 
-  * Open-Source AI / LLM Tooling (fine-tuning, RAG architectures, MLOps automation).
-  * Creative Tech Solutions (full-stack applications and automated pipelines in Python, Java, AWS, or Azure).
-* 🤝 **I’m looking for help with:** Advanced strategies for MLOps deployment at scale and optimizing low-latency vector search architectures.
-* 🌱 **I’m currently learning:** Cutting-edge LLM fine-tuning techniques (PEFT/LoRA) and multi-agent AI system architectures.
-* 💬 **Ask me about:** 
-  * Artificial Intelligence & LLMs (RAG, PyTorch, LangChain).
-  * Game Development Logic (Pathfinding algorithms like $A^*$, Finite State Machines).
-  * Software Engineering & building scalable backend systems.
-* ⚡ **Fun fact:** I balance training neural networks with tracking macronutrients down to the gram and keeping a structured 5-day lifting schedule!
+* 🎯 **Currently Working On:** Building scalable, production-ready Retrieval-Augmented Generation (RAG) pipelines and multi-agent AI workflows.
+* 🤝 **Open to Collaboration:** 
+  * Open-source AI / LLM initiatives (fine-tuning, advanced RAG architectures, and MLOps automation).
+  * Scalable full-stack systems and automated cloud pipelines (Python, Java, AWS, Azure).
+* 🌱 **Continuous Learning:** State-of-the-art LLM fine-tuning techniques (PEFT/LoRA), vector index optimization, and autonomous agent frameworks.
+* 💬 **Core Expertise & Topics:** 
+  * **AI & LLMs:** RAG pipelines, fine-tuning, PyTorch, LangChain, vector search.
+  * **Software Engineering:** Distributed backends, system architecture, API design.
+  * **Game & Agent Logic:** $A^*$ pathfinding, Finite State Machines (FSM), autonomous behavior design.
+* ⚡ **Beyond Code:** Passionate about data-driven fitness, tracking macros, and maintaining a structured 5-day strength training regimen.
 
 ---
 
@@ -47,7 +46,6 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
@@ -58,9 +56,6 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
 ### 🛢️ Databases
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -78,27 +73,5 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=maraperera&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Anthony's GitHub Stats" />
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=maraperera&theme=dark&hide_border=false" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=maraperera&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</p>
-
----
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=maraperera&icon=0&color=1" alt="Profile Views" />
-  </a>
-</p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
